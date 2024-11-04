@@ -19,5 +19,5 @@ Master of Management, Information Science, Nankai University, 2021.9-2023.6
 Bachelor of Management, Library & Information Science, Nankai University,2017-9,2021.6
 
 
-You can find my CV here: [Dingyu Shi' Curriculum Vitae]().
+You can find my CV here: [Dingyu Shi' Curriculum Vitae](../assets/CV_Shi Dingyu.pdf).
 
