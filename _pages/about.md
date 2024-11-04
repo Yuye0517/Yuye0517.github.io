@@ -22,6 +22,7 @@ Bachelor of Management, Library & Information Science, Nankai University,2017.9-
 Research Interests
 ------
 Topics: Digital Platforms, Conversational AI
+
 Methodologies: Econometric Analysis, Field Experiments
 
 
